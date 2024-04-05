@@ -1,0 +1,19 @@
+baseURL = 'https://m7sfp.uk/'
+languageCode = 'en-us'
+title = 'M7SFP'
+theme = 'whiteplain'
+
+[params.author]
+    name = "Tom Atkinson"
+    avatar = "/avatar.png"
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+  series = "series"
+
+[[menu.main]]
+    name = "About"
+    identifier = "about"
+    url = "/about/"
+    weight = 4
