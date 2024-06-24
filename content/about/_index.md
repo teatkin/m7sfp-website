@@ -12,7 +12,7 @@ This time I'm going to try blogging about electronics, adventures in amateur
 radio, software development and anything else that takes my fancy in the
 amateur radio world.
 
-I am currently a member of the [RSGB](https://rsgb.org) and will update this
+I am currently a member of the [RSGB](https://rsgb.org) and [AMSAT-UK](https://amsat-uk.org) and will update this
 list as I join new associations.
 
 73's

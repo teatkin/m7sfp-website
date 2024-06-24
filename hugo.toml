@@ -17,3 +17,8 @@ theme = 'whiteplain'
     identifier = "about"
     url = "/about/"
     weight = 4
+
+[[menu.main]]
+    name = "Posts"
+    identifier = "/"
+    weight = 6
